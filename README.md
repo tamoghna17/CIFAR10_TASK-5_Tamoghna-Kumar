@@ -1,4 +1,4 @@
-# CIFAR10_TASK-5
+# cifar10
 
 {Dimensions of X: 32x32x3,50000}
 
