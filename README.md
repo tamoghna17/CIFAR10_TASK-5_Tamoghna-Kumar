@@ -4,10 +4,10 @@
 
 Classification on the cifar-10 dataset
 
-Steps:
-1)Clone this repository.
-2)Download the [dataset](https://www.kaggle.com/competitions/cifar-10/data)
-3)Change the hyperparamters as needed in run.sh file:
+Steps:<br />
+1)Clone this repository.<br />
+2)Download the [dataset](https://www.kaggle.com/competitions/cifar-10/data)<br />
+3)Change the hyperparamters as needed in run.sh file:<br />
 * –lr (initial learning rate for gradient descent based algorithms)
 * –momentum (momentum to be used by momentum based algorithms)
 * –num hidden (number of hidden layers - this does not include the 32x 32 dimensional input layer and the 10 dimensional output layer) 
